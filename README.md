@@ -3,7 +3,7 @@
 <h1 align="center">## 🚀 Tecnologias</h1>
 
 <body>
-  <div align="center">
+  <div text-align="center">
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
